@@ -1,11 +1,3 @@
-"""Exercise 9 for INST 326 
-Driver: Aysha Sumaiya
-Navigator: Besufikad Tasissa
-Assignment: Exercise 10
-Date: 11/16/2021
-Challenges Encountered: 
-"""
-#python books.py
 import sqlite3 
 import pandas as pd
 
